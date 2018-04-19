@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">lifecounter</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="plusFive">+5</string>
+    <string name="minusFive">-5</string>
+    <string name="playerOneLife">Life  Total: 20</string>
+    <string name="playerTwoLife">Life  Total: 20</string>
+    <string name="playerThreeLife">Life  Total: 20</string>
+    <string name="playerFourLife">Life  Total: 20</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_3">Player 3</string>
+    <string name="player_4">Player 4</string>
 </resources>
